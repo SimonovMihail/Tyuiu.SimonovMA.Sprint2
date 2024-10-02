@@ -35,6 +35,8 @@ namespace Tyuiu.SimonovMA.Sprint2.Task0.V23
 
             Console.WriteLine(barrage_string);
             Console.ReadKey();
+
+            // гитхаб работай
         }
     }
 }
